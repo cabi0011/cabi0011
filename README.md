@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **UX, Javascript, and CSS.**
 
-- 👨‍💻 All of my projects are available at [my Github(https://github.com/cabi0011)]
+- 👨‍💻 All of my projects are available at [my Github](https://github.com/cabi0011)
 
 - 💬 Ask me about **CSS and UX!**
 
 - 📫 How to reach me: **cabi0011@algonquinlive.com**
 
-- 📄 Know about my experiences [on my [LinkedIn profile](https://www.linkedin.com/in/ginacabildo/)]
+- 📄 Know about my experiences [on my [LinkedIn profile](https://www.linkedin.com/in/ginacabildo/)
 
 - ⚡ Fun fact: **I also write long-form content!**
 
