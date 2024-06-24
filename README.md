@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **cabi0011@algonquinlive.com**
 
-- 📄 Know about my experiences [on my [LinkedIn profile](https://www.linkedin.com/in/ginacabildo/)
+- 📄 Know about my experiences on my [LinkedIn profile](https://www.linkedin.com/in/ginacabildo/)
 
 - ⚡ Fun fact: **I also write long-form content!**
 
