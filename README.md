@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UX, Javascript, and CSS.**
 
-- 👨‍💻 All of my projects are available at [[my Github](https://github.com/cabi0011)]
+- 👨‍💻 All of my projects are available at [my Github(https://github.com/cabi0011)]
 
 - 💬 Ask me about **CSS and UX!**
 
