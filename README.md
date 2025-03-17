@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gina!</h1>
-<h3 align="center">A student learning front-end web development and app design based in Canada.</h3>
+<h3 align="center">A product and software designer who codes on the side.</h3>
 
 - 🔭 I’m currently working on **a website to showcase my portfolio.**
 
